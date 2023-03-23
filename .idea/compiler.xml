@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="ums.api.service.eureka-client-1.utils.main" />
+        <module name="ums.api.entities.eureka-client-1.entities.main" />
+        <module name="ums.api.repositories.eureka-client-1.repositories.main" />
+        <module name="eureka-client-1.spec.main" />
+        <module name="ums.api.service.eureka-client-1.service.main" />
+        <module name="ums.api.application.eureka-client-1.application.main" />
+        <module name="ums.api.controller.eureka-client-1.controller.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.user-management-system.student.eureka-client-1.student.main" target="17" />
+      <module name="eureka-client-1.student" target="17" />
+      <module name="eureka-client-1.student.test" target="17" />
+      <module name="eureka-server.student" target="17" />
+      <module name="eureka-server.student.main" target="17" />
+      <module name="eureka-server.student.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+rootProject.name = 'eureka-client-1'
+
+include ':application'
+include ':controller'
+include ':entities'
+include ':repositories'
+include ':service'
+include ':spec'
+include ':utils'

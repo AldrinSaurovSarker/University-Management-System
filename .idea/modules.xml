@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/User Management System.iml" filepath="$PROJECT_DIR$/.idea/User Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/eureka-client-1.application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/application/eureka-client-1.application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/controller/eureka-client-1.controller.main.iml" filepath="$PROJECT_DIR$/.idea/modules/controller/eureka-client-1.controller.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/eureka-client-1.entities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/eureka-client-1.entities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repositories/eureka-client-1.repositories.main.iml" filepath="$PROJECT_DIR$/.idea/modules/repositories/eureka-client-1.repositories.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/eureka-client-1.service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/eureka-client-1.service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spec/eureka-client-1.spec.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spec/eureka-client-1.spec.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/eureka-client-1.utils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/eureka-client-1.utils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/ums.api.application.eureka-client-1.application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/application/ums.api.application.eureka-client-1.application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/controller/ums.api.controller.eureka-client-1.controller.main.iml" filepath="$PROJECT_DIR$/.idea/modules/controller/ums.api.controller.eureka-client-1.controller.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/ums.api.entities.eureka-client-1.entities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/ums.api.entities.eureka-client-1.entities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repositories/ums.api.repositories.eureka-client-1.repositories.main.iml" filepath="$PROJECT_DIR$/.idea/modules/repositories/ums.api.repositories.eureka-client-1.repositories.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/ums.api.service.eureka-client-1.service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/ums.api.service.eureka-client-1.service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/ums.api.service.eureka-client-1.utils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/ums.api.service.eureka-client-1.utils.main.iml" />
+    </modules>
+  </component>
+</project>

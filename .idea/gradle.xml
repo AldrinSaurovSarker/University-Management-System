@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eureka-client-1" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eureka-client-1" />
+            <option value="$PROJECT_DIR$/eureka-client-1/application" />
+            <option value="$PROJECT_DIR$/eureka-client-1/controller" />
+            <option value="$PROJECT_DIR$/eureka-client-1/entities" />
+            <option value="$PROJECT_DIR$/eureka-client-1/repositories" />
+            <option value="$PROJECT_DIR$/eureka-client-1/service" />
+            <option value="$PROJECT_DIR$/eureka-client-1/spec" />
+            <option value="$PROJECT_DIR$/eureka-client-1/utils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eureka-server" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eureka-server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
